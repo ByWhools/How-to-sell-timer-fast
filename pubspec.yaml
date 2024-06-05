@@ -1,0 +1,28 @@
+name: mydrugs
+description: "Contador inspirado en la famosa serie how to sell drugs online fast, Esta app se creo con fines educativos."
+publish_to: 'none'
+version: 0.1.0+2
+
+environment:
+  sdk: '>=3.3.4 <4.0.0'
+
+dependencies:
+  audioplayers: ^6.0.0
+  flutter:
+    sdk: flutter
+  provider: ^6.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  
+  assets:
+    - assets/
+    - assets/second_sound.mp3
+    - assets/minute_sound.mp3
+    - assets/game_over.mp3
+    
