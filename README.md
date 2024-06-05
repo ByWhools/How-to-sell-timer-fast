@@ -14,7 +14,7 @@ Este proyecto es un temporizador inspirado en el contador que aparece en el prim
 
 1. Clona este repositorio en tu máquina local.
    ```bash
-   git clone https://github.com/tu_usuario/how-to-sell-drugs-online-fast-timer.git
+   git clone https://github.com/byWhools/how-to-sell-drugs-online-fast-timer.git
 
 2. Navega al directorio del proyecto
 
