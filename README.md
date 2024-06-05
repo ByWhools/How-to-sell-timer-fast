@@ -40,4 +40,4 @@ https://docs.flutter.dev/
 ```
 2. Usa los botones para iniciar, pausar, reiniciar y ajustar el temporizador.
 
-![videoFlutter](https://firebasestorage.googleapis.com/v0/b/fastcode-d4115.appspot.com/o/WhatsApp%20Video%202024-06-04%20at%203.55.56%20PM.mp4?alt=media&token=8f0663e6-6b8b-43c6-a314-2db1d79d827b)
+![](https://firebasestorage.googleapis.com/v0/b/fastcode-d4115.appspot.com/o/WhatsApp%20Video%202024-06-04%20at%203.55.56%20PM.mp4?alt=media&token=8f0663e6-6b8b-43c6-a314-2db1d79d827b)
